@@ -1,4 +1,4 @@
-  applications:
+applications:
   - name: onlinecourse
     routes:
       - route: host.domain
